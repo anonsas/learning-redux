@@ -1,0 +1,17 @@
+{
+  "name": "rtk-0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RTK-0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Igor",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.3",
+    "axios": "^0.27.2",
+    "redux-logger": "^3.0.6"
+  }
+}
